@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: f34f49ad58f782148ba220cb0a83b86d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - greenRock: {fileID: 22062501508284577, guid: 14f4fb121e969a648a58870ebd08e4f0,
+      type: 3}
+  - magentaRock: {fileID: 8258756561829179229, guid: 6499beaa0ac257d479419f80bda2bf7d,
+      type: 3}
+  - whiteRock: {fileID: 7251760814500563875, guid: 9f4a896e1d9940049915af56ab066777,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

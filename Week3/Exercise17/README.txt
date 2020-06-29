@@ -1,0 +1,2 @@
+This Unity project will spawn teddy bears every second. 
+The bears are programmed to initialize in a random direction (application of impulse force), bounce off the walls, and explode when they collide with eachother.
